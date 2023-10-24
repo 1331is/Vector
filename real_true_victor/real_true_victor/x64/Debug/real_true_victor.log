@@ -1,0 +1,9 @@
+﻿  main.cpp
+C:\Users\HUAWEI\source\repos\real_true_victor\real_true_victor\main.cpp(23,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\HUAWEI\source\repos\real_true_victor\real_true_victor\main.cpp(44,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\HUAWEI\source\repos\real_true_victor\real_true_victor\main.cpp(54,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\HUAWEI\source\repos\real_true_victor\real_true_victor\main.cpp(63,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\HUAWEI\source\repos\real_true_victor\real_true_victor\main.cpp(78,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\HUAWEI\source\repos\real_true_victor\real_true_victor\main.cpp(86,12): warning C4018: >: несоответствие типов со знаком и без знака
+C:\Users\HUAWEI\source\repos\real_true_victor\real_true_victor\main.cpp(91,21): warning C4018: <: несоответствие типов со знаком и без знака
+  real_true_victor.vcxproj -> C:\Users\HUAWEI\source\repos\real_true_victor\x64\Debug\real_true_victor.exe
